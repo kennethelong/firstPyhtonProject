@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fe0029a-fb82-451a-8c4a-da3c8be550ba" name="Changes" comment="Initial commit">
+    <list default="true" id="5fe0029a-fb82-451a-8c4a-da3c8be550ba" name="Changes" comment="New commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testOfFunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/testOfFunc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/Python_101.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/Python_101.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/example_application.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/example_application.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/k-NN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/k-NN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/kNN classification exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/kNN classification exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/kNN regression exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/kNN regression exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/library_illustration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/library_illustration.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/irisClas.py" beforeDir="false" afterPath="$PROJECT_DIR$/irisClas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,15 +52,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.firstFile.executor": "Run",
-    "Python.testOfFunc.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.firstFile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.irisClas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testOfFunc.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kenneth/PycharmProjects/beeware-tutorial&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -95,11 +103,20 @@
       <option name="project" value="LOCAL" />
       <updated>1729782966929</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1729827356351</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729827356352</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="New commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New commit" />
   </component>
 </project>
