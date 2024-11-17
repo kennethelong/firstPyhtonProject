@@ -1,0 +1,63 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"5fe0029a-fb82-451a-8c4a-da3c8be550ba\" name=\"Changes\" comment=\"New commit\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Notebooks/Python_101.ipynb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Notebooks/Python_101.ipynb\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Notebooks/example_application.ipynb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Notebooks/example_application.ipynb\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Notebooks/k-NN.ipynb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Notebooks/k-NN.ipynb\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Notebooks/kNN classification exercise.ipynb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Notebooks/kNN classification exercise.ipynb\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Notebooks/kNN regression exercises.ipynb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Notebooks/kNN regression exercises.ipynb\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Notebooks/library_illustration.ipynb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Notebooks/library_illustration.ipynb\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/irisClas.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/irisClas.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;kennethelong&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/kennethelong/firstPyhtonProject&quot;,\n    &quot;accountId&quot;: &quot;9d3c23fa-bad5-43b7-b0a6-9d7c5375cdc7&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 4\n}</component>\n  <component name=\"ProjectId\" id=\"2nt33zkfqkchJYkttXec3wWqfQc\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;Python.firstFile.executor&quot;: &quot;Run&quot;,\n    &quot;Python.irisClas.executor&quot;: &quot;Run&quot;,\n    &quot;Python.testOfFunc.executor&quot;: &quot;Run&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/home/kenneth/PycharmProjects/beeware-tutorial&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;\n  }\n}</component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"5fe0029a-fb82-451a-8c4a-da3c8be550ba\" name=\"Changes\" comment=\"\" />\n      <created>1729778353386</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1729778353386</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Initial commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1729779879147</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1729779879147</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Initial commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1729779984151</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1729779984151</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Initial commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1729782966929</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1729782966929</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"New commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1729827356351</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1729827356352</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"5\" />\n    <servers />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Initial commit\" />\n    <MESSAGE value=\"New commit\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"New commit\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c9aca0399d2dba056799bb0979feb9bd438983e9)
++++ b/.idea/workspace.xml	(date 1731076134428)
+@@ -4,16 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="5fe0029a-fb82-451a-8c4a-da3c8be550ba" name="Changes" comment="New commit">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Notebooks/Python_101.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/Python_101.ipynb" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Notebooks/example_application.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/example_application.ipynb" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Notebooks/k-NN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/k-NN.ipynb" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Notebooks/kNN classification exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/kNN classification exercise.ipynb" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Notebooks/kNN regression exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/kNN regression exercises.ipynb" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Notebooks/library_illustration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/library_illustration.ipynb" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/irisClas.py" beforeDir="false" afterPath="$PROJECT_DIR$/irisClas.py" afterDir="false" />
+-    </list>
++    <list default="true" id="5fe0029a-fb82-451a-8c4a-da3c8be550ba" name="Changes" comment="Updated nbs" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -111,12 +102,31 @@
+       <option name="project" value="LOCAL" />
+       <updated>1729827356352</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="Updated notebooks">
++      <option name="closed" value="true" />
++      <created>1731076066572</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1731076066573</updated>
++    </task>
++    <task id="LOCAL-00006" summary="Updated nbs">
++      <option name="closed" value="true" />
++      <created>1731076108890</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1731076108890</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Initial commit" />
+     <MESSAGE value="New commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="New commit" />
++    <MESSAGE value="Add files via upload" />
++    <MESSAGE value="Updated notebooks" />
++    <MESSAGE value="Updated nbs" />
++    <option name="LAST_COMMIT_MESSAGE" value="Updated nbs" />
+   </component>
+ </project>
+\ No newline at end of file

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fe0029a-fb82-451a-8c4a-da3c8be550ba" name="Changes" comment="Updated nbs" />
+    <list default="true" id="5fe0029a-fb82-451a-8c4a-da3c8be550ba" name="Changes" comment="New commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise_sheet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/Exercise_sheet.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,17 +46,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.firstFile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.irisClas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testOfFunc.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/kenneth/PycharmProjects/beeware-tutorial&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.firstFile.executor": "Run",
+    "Python.irisClas.executor": "Run",
+    "Python.testOfFunc.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/kenneth/PycharmProjects/beeware-tutorial",
+    "settings.editor.selected.configurable": "promo.jupyter"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exam" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -118,15 +126,24 @@
       <option name="project" value="LOCAL" />
       <updated>1731076108890</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1731268917935</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731268917935</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <MESSAGE value="New commit" />
     <MESSAGE value="Add files via upload" />
     <MESSAGE value="Updated notebooks" />
     <MESSAGE value="Updated nbs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated nbs" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Notebooks/Decision tree exercises.ipynb&#10;#&#9;Notebooks/Decision trees.ipynb&#10;#&#9;Notebooks/NB.ipynb&#10;#&#9;Notebooks/Python_101.ipynb&#10;#&#9;Notebooks/example_application.ipynb&#10;#&#9;Notebooks/k-NN.ipynb&#10;#&#9;Notebooks/kNN classification exercise.ipynb&#10;#&#9;Notebooks/kNN regression exercises.ipynb&#10;#&#9;Notebooks/library_illustration.ipynb&#10;#&#9;Notebooks/tree.dot" />
+    <MESSAGE value="New commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New commit" />
   </component>
 </project>
