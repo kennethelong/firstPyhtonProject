@@ -1,0 +1,13 @@
+architecture,activation,train_accuracy,test_accuracy,time,convergence_warning,timestamp,converged,formatted_time
+(),relu,100.00%,98.42%,97.39,False,2024-11-26 20:10:02,Yes,1m 37.39s
+"(5,)",relu,99.09%,98.92%,327.91,True,2024-11-26 20:10:02,No (Did not converge),5m 27.91s
+"(10,)",relu,99.85%,99.22%,87.67,False,2024-11-26 20:10:02,Yes,1m 27.67s
+"(5, 5)",relu,99.14%,98.97%,210.9,False,2024-11-26 20:10:02,Yes,3m 30.90s
+"(10, 5)",relu,99.87%,99.22%,214.71,False,2024-11-26 20:10:02,Yes,3m 34.71s
+"(10, 10, 5)",relu,99.95%,99.34%,339.8,False,2024-11-26 20:10:02,Yes,5m 39.80s
+(),tanh,100.00%,98.42%,110.59,False,2024-11-26 20:10:02,Yes,1m 50.59s
+"(5,)",tanh,98.85%,98.56%,412.76,True,2024-11-26 20:10:02,No (Did not converge),6m 52.76s
+"(10,)",tanh,99.36%,98.73%,489.8,True,2024-11-26 20:10:02,No (Did not converge),8m 9.80s
+"(5, 5)",tanh,98.79%,98.73%,707.54,True,2024-11-26 20:10:02,No (Did not converge),11m 47.54s
+"(10, 5)",tanh,99.27%,99.00%,655.37,True,2024-11-26 20:10:02,No (Did not converge),10m 55.37s
+"(10, 10, 5)",tanh,99.25%,98.86%,940.86,True,2024-11-26 20:10:02,No (Did not converge),15m 40.86s
