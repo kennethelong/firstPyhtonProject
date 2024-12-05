@@ -1,0 +1,5 @@
+layers,solver,max_iter,train_accuracy,test_accuracy,training_time,evaluation_time,converged,timestamp,train_accuracy (%),test_accuracy (%),start_time,end_time
+"(20,)",lbfgs,1000,0.8388190476190476,0.8324571428571429,1970-01-01 01.16.04,1970-01-01 01.00.02,Yes,2024-12-04 13.43.43,,,,
+"(20,)",lbfgs,1000,,,00:19:12,00:00:00,No (Reached max_iter),,,,2024-12-04 14:57:42,2024-12-04 15:16:54
+"(20,)",lbfgs,2000,,,00:32:12,00:00:00,No (Reached max_iter),,N/A,N/A,2024-12-04 15:30:17,2024-12-04 16:02:30
+"(20,)",lbfgs,5000,,,01:19:03,00:00:00,No (Reached max_iter),,N/A,N/A,2024-12-04 16:02:30,2024-12-04 17:21:33
