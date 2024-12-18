@@ -1,3 +1,3 @@
 model,architecture,solver,iterations,train_accuracy (%),test_accuracy (%),time (min:sec),converged,timestamp
-NN,(),lbfgs,5000,94.6743,91.0686,10:56.99,Yes,2024-12-17 21:43:18
-NN,"(20,)",lbfgs,5000,90.6190,89.6971,20:41.38,Yes,2024-12-17 22:04:00
+SVC,N/A,linear,N/A,72.8038,72.2743,0:47.34,Yes,2024-12-18 09:21:36
+NN,"(20,)",adam,100,92.5981,90.2457,3:10.20,Yes,2024-12-18 09:24:47
